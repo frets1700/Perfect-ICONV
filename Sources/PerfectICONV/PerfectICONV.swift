@@ -18,6 +18,7 @@
 //
 #if os(Linux)
 import ICONVApiLinux
+import CString
 #else
 import ICONVApi
 #endif

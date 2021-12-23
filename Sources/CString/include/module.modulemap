@@ -1,0 +1,4 @@
+module CString [system] {
+    header "/usr/include/string.h"
+    export *
+}
